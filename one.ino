@@ -4,9 +4,6 @@
 
 const char* ssid = "dryy";
 const char* password = "hachikoq";
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
 const char* serverName = "http://192.168.1.100:5000/post-data";
 
 #define DHTTYPE DHT22
